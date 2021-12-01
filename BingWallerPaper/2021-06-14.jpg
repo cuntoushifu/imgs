@@ -1,0 +1,4 @@
+<br />
+<b>Warning</b>:  file_get_contents(https://cn.bing.com/HPImageArchive.aspx?format=js&amp;idx=0&amp;n=1) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: receive message was truncated in <b>bingImg/index.php</b> on line <b>4</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /data1/www/htdocs/285/area/1/bingImg/index.php:4) in <b>bingImg/index.php</b> on line <b>6</b><br />
